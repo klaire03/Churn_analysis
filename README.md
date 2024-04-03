@@ -1,3 +1,7 @@
+
+**This project utilizes a randomly generated dataset in order to protect sensitive data. The main purpose is mainly to describe the process of identifying feature importance contributing to churn rather than producing a comprehensive report and recommendations**
+
+
 **Background** 
 
 Understanding the reasons behind customer churn is vital for businesses to maintain profitability and sustain growth. Factors such as poor user experience, lack of engagement, and competitive pressures contribute to churn. This study aims to analyze user experience survey responses, app usage data, support interactions, and marketing engagement to identify specific drivers of churn within the company's customer base. 
